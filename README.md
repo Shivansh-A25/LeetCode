@@ -11,8 +11,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivansh-A25/LeetCode/tree/master/0001-two-sum) |
+| [0451-sort-characters-by-frequency](https://github.com/Shivansh-A25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivansh-A25/LeetCode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shivansh-A25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shivansh-A25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shivansh-A25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shivansh-A25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shivansh-A25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
