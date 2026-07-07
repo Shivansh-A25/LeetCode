@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivansh-A25/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Shivansh-A25/LeetCode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shivansh-A25/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shivansh-A25/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
