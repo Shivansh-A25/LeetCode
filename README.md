@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivansh-A25/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Shivansh-A25/LeetCode/tree/master/0035-search-insert-position) |
 | [0682-baseball-game](https://github.com/Shivansh-A25/LeetCode/tree/master/0682-baseball-game) |
+| [1037-valid-boomerang](https://github.com/Shivansh-A25/LeetCode/tree/master/1037-valid-boomerang) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivansh-A25/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shivansh-A25/LeetCode/tree/master/0009-palindrome-number) |
+| [1037-valid-boomerang](https://github.com/Shivansh-A25/LeetCode/tree/master/1037-valid-boomerang) |
 ## String
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Shivansh-A25/LeetCode/tree/master/0682-baseball-game) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/Shivansh-A25/LeetCode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
