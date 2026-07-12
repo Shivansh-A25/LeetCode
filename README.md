@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivansh-A25/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Shivansh-A25/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivansh-A25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0844-backspace-string-compare](https://github.com/Shivansh-A25/LeetCode/tree/master/0844-backspace-string-compare) |
 | [3136-valid-word](https://github.com/Shivansh-A25/LeetCode/tree/master/3136-valid-word) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shivansh-A25/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivansh-A25/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Shivansh-A25/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Shivansh-A25/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivansh-A25/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shivansh-A25/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shivansh-A25/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivansh-A25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Shivansh-A25/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Shivansh-A25/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Shivansh-A25/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Shivansh-A25/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Geometry
 |  |
 | ------- |
