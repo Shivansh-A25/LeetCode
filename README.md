@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivansh-A25/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Shivansh-A25/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivansh-A25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3136-valid-word](https://github.com/Shivansh-A25/LeetCode/tree/master/3136-valid-word) |
 ## Sorting
 |  |
 | ------- |
