@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shivansh-A25/LeetCode/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivansh-A25/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivansh-A25/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0622-design-circular-queue](https://github.com/Shivansh-A25/LeetCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Shivansh-A25/LeetCode/tree/master/0682-baseball-game) |
 | [1037-valid-boomerang](https://github.com/Shivansh-A25/LeetCode/tree/master/1037-valid-boomerang) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shivansh-A25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivansh-A25/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shivansh-A25/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Shivansh-A25/LeetCode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivansh-A25/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shivansh-A25/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shivansh-A25/LeetCode/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Shivansh-A25/LeetCode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Shivansh-A25/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
