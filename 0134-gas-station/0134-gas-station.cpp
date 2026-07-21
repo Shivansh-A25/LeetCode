@@ -4,11 +4,11 @@ public:
         int totGas=0;
         int totCost=0;
 
-        for(int val:gas){
+        for(auto val:gas){
             totGas+=val;
         }
 
-        for(int val2:cost){
+        for(auto val2:cost){
             totCost+=val2;
         }
 
