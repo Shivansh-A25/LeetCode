@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shivansh-A25/LeetCode/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivansh-A25/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivansh-A25/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0239-sliding-window-maximum](https://github.com/Shivansh-A25/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Shivansh-A25/LeetCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Shivansh-A25/LeetCode/tree/master/0682-baseball-game) |
 | [1037-valid-boomerang](https://github.com/Shivansh-A25/LeetCode/tree/master/1037-valid-boomerang) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shivansh-A25/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivansh-A25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -148,5 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shivansh-A25/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivansh-A25/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Shivansh-A25/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Shivansh-A25/LeetCode/tree/master/0622-design-circular-queue) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shivansh-A25/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shivansh-A25/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
